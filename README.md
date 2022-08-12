@@ -12,8 +12,13 @@ i.e.
 
 ## How to initialize/run your application (where applicable)
 
-e.g. python main.py
-How to use your library (where applicable)
+```python 
+
+pip install -r requirements.txt
+python automation/automation.py
+
+```
+
 ## Tests
 How do you run tests?
 Any tests of note?
